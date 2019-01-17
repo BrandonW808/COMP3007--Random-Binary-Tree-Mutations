@@ -2,8 +2,8 @@ Student: Brandon Ward
 Student #: 101038470
 
 Loading File
-To execute, cd into directory containing comp3007_f18_101038470_a3.hs
-:load comp3007_f18_101038470_a3.hs
+To execute, cd into directory containing random-binary-tree-mutations.hs
+:load random-binary-tree-mutations.hs
 
 Question 1
 to test congruential number generator use the following commands once file is loaded;
